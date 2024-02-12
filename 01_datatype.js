@@ -2,14 +2,14 @@
 "use strict";//treat all js as newer code
 
 // console.log("rubdu"); //print rubdu
-// console.log("biscuit dega"); // print biscuit dega 
+// console.log("biscuit"); // print biscuit
 const acountid = 10  // variable declaration const it cannot be changed further 
 let raj = 'fuddu' // variable declaration let it can be changed furthur
 var actpas // avoiding using var, it can be changed furthur
 
 // lets try to print in tables
 
-// console.table([ acountid , raj])
+ console.table([ acountid , raj])
 // output=>
 // ┌─────────┬─────────┐
 // │ (index) │ Values  │
