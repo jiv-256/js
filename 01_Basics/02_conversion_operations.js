@@ -1,6 +1,6 @@
 
 let score = "33"
-
+  
 // console.log(typeof (score));
 // here the type is string 
 
