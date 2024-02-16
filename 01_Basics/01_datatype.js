@@ -19,7 +19,6 @@ var actpas // avoiding using var, it can be changed furthur
 // └─────────┴─────────┘
 
 //Datatype
-
 let name = "rajiv" // datatype=>string
 let age = 39 //datatype=> integer
 let logedin = false  //datatype=> boolean
